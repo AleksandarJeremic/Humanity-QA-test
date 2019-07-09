@@ -1,0 +1,15 @@
+Pozdrav,
+
+U Excel file-u možete pronaći moj zapis manuelnog testiranja.
+
+Automatski deo je rađen u Selenium Java/JUnit framework-u.
+
+Urađena su pet test scenarija. U Excel-u sam zapisao koji delovi su pokriveni.
+Napravljeni su i dva JUnit testa gde se pokreću 4 testa koji su već urađena u nekim prethodno navedenim scenarijima.
+Takodje postoji i suit koji pokreće te JUnit testove.
+
+Ukoliko bude bilo kakvih pitanja, možete me dobiti na 0605111093 ili jeremicale@gmail.com
+
+Nadam se da nije previše zamršeno i da vam je pomogao ovaj readme file,
+Sve najbolje,
+Aleksandar Jeremić
